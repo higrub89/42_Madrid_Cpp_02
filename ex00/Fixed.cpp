@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   Fixed.cpp                                          :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: rhiguita <rhiguita@student.42madrid.com>   +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/01/29 23:24:52 by rhiguita          #+#    #+#             */
+/*   Updated: 2026/01/29 23:24:56 by rhiguita         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "Fixed.hpp"
 Fixed::Fixed() : _fixedPointValue(0){
     std::cout << "Default constructor called" << std::endl;
